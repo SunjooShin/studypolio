@@ -1,4 +1,4 @@
-# python_studypolio
+# Sunjoo's studypolio
 ## python_grammer_basic
 > 1. Jupyter Notebook
 > - [파이썬톺아보기#1](py_grammer_1.html)
