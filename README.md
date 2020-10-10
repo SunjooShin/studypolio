@@ -8,5 +8,4 @@
 > - [프로그래머스#1](assignment_1st.html)
 
 ### statistis
-> statistics
 > - [회귀분석#1](regression_1.html)
