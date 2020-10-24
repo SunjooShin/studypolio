@@ -1,5 +1,5 @@
 # studypolio
-### being data analyst (TIL)
+### becoming a data analyst (TIL)
 > - [데이터에 관한 글읽기](https://velog.io/@sunjoo)
 
 ### python
