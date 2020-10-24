@@ -1,6 +1,7 @@
 # studypolio
 ### being data analyst (TIL)
 > - [데이터에 관한 글읽기](https://velog.io/@sunjoo)
+
 ### python
 > 1. Jupyter Notebook
 > - [파이썬톺아보기#1](py_grammer_1.html)
