@@ -14,4 +14,4 @@
 > - [#1 회귀분석](Regression_1.html)
 > - [#2 다중회귀분석과 예측](Regression_2.html)
 > - [#3 회귀분석 변수의 변형과 표준화](Regression_3.html)
-> - [#4 이중차분법, Causal Impact, 클러스터링](casual_clustering_8.html)
+> - [#8 이중차분법, Causal Impact, 클러스터링](casual_clustering_8.html)
